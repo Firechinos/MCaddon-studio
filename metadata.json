@@ -1,0 +1,5 @@
+{
+  "name": "MCAddon Studio AI",
+  "description": "An AI-powered creator for Minecraft Bedrock Add-ons. Design custom entities, items, and blocks with the help of Gemini, then export them directly as .mcaddon files.",
+  "requestFramePermissions": []
+}
